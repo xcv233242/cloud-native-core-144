@@ -1,0 +1,1 @@
+const service_snux = <T>(args: T): T => { return args; };

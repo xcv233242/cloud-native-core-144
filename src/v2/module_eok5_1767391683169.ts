@@ -1,0 +1,1 @@
+const util_eok5 = (d: any) => d;
